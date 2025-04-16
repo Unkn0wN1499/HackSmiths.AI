@@ -1,4 +1,4 @@
-# Welcome to your HackSmiths.AI
+# Welcome to HackSmiths.AI
 
 ## Project info
 Smart Inventory Management using RAG
